@@ -7,7 +7,7 @@ This dashboard highlights platform performance, genre insights, IMDb trends, and
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./ott-dashboard.png)
+![Dashboard Preview](./ott%20dashboard.png)
 
 ---
 
